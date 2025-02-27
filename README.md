@@ -93,11 +93,3 @@ NovaPulse Media is an **AI-powered news platform** designed to deliver **persona
 
 ## 📜 License
 This project is **open-source** and available under the MIT License.
-
-## 🤝 Contributors
-- **Your Name** - _Project Lead_
-- **Additional Contributors** (to be added)
-
-## 📧 Contact
-For inquiries, reach out to [your-email@example.com](mailto:your-email@example.com).
-
